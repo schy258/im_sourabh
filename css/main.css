@@ -411,9 +411,9 @@ ul.sub-menu {
 .home-two #home-banner {
   background-image: url(../images/bg/2.png);
   background-repeat: no-repeat;
-  background-position: right;
+  background-position: 53rem;
   background-size: contain;
-  left: 12rem;
+  /* left: 12rem;y */
 }
 .banner-info h1 {
   font-size: 48px;
@@ -437,10 +437,10 @@ ul.sub-menu {
 }
 .banner-content,
 #home-banner {
-  position: relative;
+  /* position: relative; */
   width: 100%;
   height: 700px;
-  left: -7rem;
+  /* left: -7rem; */
 }
 .banner-content .banner-info {
   position: absolute;
