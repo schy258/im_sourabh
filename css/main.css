@@ -1326,3 +1326,13 @@ a,
   margin-bottom: 5px !important ;
   transition: all 0.3s;
 }
+
+@media (min-width: 1370px) and (max-width: 3840px) {
+  .home-two #home-banner {
+    background-image: url(../images/bg/2.png);
+    background-repeat: no-repeat;
+    background-position: 92rem;
+    background-size: contain;
+    /* left: 12rem;y */
+  }
+}
